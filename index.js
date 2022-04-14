@@ -5,3 +5,5 @@
 // }, (err, result) => {
 //   console.log(err);
 // });
+
+console.log('hello from Node.js');
